@@ -13,7 +13,7 @@ Curioso por código, focado em entender a lógica por trás das ferramentas.
   <a href="https://github.com/minhoSantiago">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/romolo-santiago/">
+  <a href="https://www.linkedin.com/in/r%C3%B4molo-santiago-miguez-026146238/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:romolomiguez.santiago@gmail.com">
