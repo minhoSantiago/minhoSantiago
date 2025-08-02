@@ -8,11 +8,20 @@ Curioso por código, focado em entender a lógica por trás das ferramentas.
 ---
 
 
-## 📫 Contato
+## 📫 Contato/Contacts
+<p align="center">
+  <a href="https://github.com/minhoSantiago">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/romolo-santiago/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:romolomiguez.santiago@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/minhoSantiago)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/romolo-santiago/](https://www.linkedin.com/in/r%C3%B4molo-santiago-miguez-026146238/))  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:romolomiguez.santiago@gmail.com)
+---
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhoSantiago&layout=compact&langs_count=7&theme=bear"/>
@@ -28,27 +37,13 @@ Curioso por código, focado em entender a lógica por trás das ferramentas.
 
 ---
 
-Atualmente estou estudando:
-- **Java** (você pode ver meu avanço no projeto [java-learns](https://github.com/minhoSantiago/java-learns))
-- Conceitos básicos de **JavaScript** e **Node.js**
-- Fundamentos de **SQL**
-- Versionamento com **Git/GitHub**
-
----
-
 ## 💻 Tecnologias que estou explorando
 
-- Java  
+- Java (você pode ver meu avanço no projeto [java-learns](https://github.com/minhoSantiago/java-learns))
 - JavaScript (iniciante)  
 - Node.js (iniciante)  
 - SQL / MySQL  
 - Git / GitHub
-
----
-
-## 📫 Contato
-
-Se quiser trocar ideia ou colaborar em algo, é só chamar pelo Github ou pelo email romolomiguez.santiago@gmail.com.
 
 ---
 
@@ -60,26 +55,14 @@ Se quiser trocar ideia ou colaborar em algo, é só chamar pelo Github ou pelo e
 I'm a **Systems Analysis and Development** student, learning the fundamentals of programming and practicing with small projects.  
 I'm curious about how things work behind the scenes and enjoy learning by doing.
 
-Currently studying:
-- **Java** (you can see my progress on the [java-learns](https://github.com/minhoSantiago/java-learns) project)
-- Basics of **JavaScript** and **Node.js**
-- SQL fundamentals
-- Git/GitHub version control
-
 ---
 
 ### 💻 Technologies I'm exploring
 
-- Java  
+- Java (you can see my progress on the [java-learns](https://github.com/minhoSantiago/java-learns) project)
 - JavaScript (beginner)  
 - Node.js (beginner)  
 - SQL / MySQL  
 - Git / GitHub
-
----
-
-### 📫 Contact
-
-Feel free to reach out here on Github or via email (romolomiguez.santiago@gmail.com) if you want to connect or collaborate!
 
 </details>
